@@ -1,5 +1,5 @@
 # GSTN-Hackathon
-#### Team Members: Ankush Naskar, Utkarsh Patel, Hemlata Gautam, Umesh Konduru
+#### Team Members: Hemlata Gautam, Ankush Naskar, Utkarsh Patel, Umesh Konduru
 
 #### We achieved an Accuracy of **97.8%** on the given GST Test Dataset
 
