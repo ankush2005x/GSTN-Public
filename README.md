@@ -12,4 +12,4 @@ We have submitted both a .py and .ipynb file.
 The trained model (.pkl file) has also been provided, though training the model on the Train Data takes just few seconds and will produce the same results each time.
 
 Thank you.
-![Preview]([https://github.com/ankush2005xx/GSTN-Public/blob/main/Preview.png](https://github.com/ankush2005x/GSTN-Public/blob/main/Preview.png))
+![Preview](https://github.com/ankush2005x/GSTN-Public/blob/main/Preview.png))
