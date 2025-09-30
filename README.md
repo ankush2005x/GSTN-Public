@@ -1,4 +1,4 @@
-# GSTN-Hackathon
+# GSTN-Hackathon-2024
 #### Team Members: Hemlata Gautam, Ankush Naskar, Utkarsh Patel, Umesh Konduru
 
 #### We achieved an Accuracy of **97.8%** on the given GST Test Dataset
