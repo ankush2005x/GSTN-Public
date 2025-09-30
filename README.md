@@ -12,3 +12,4 @@ We have submitted both a .py and .ipynb file.
 The trained model (.pkl file) has also been provided, though training the model on the Train Data takes just few seconds and will produce the same results each time.
 
 Thank you.
+![Preview](https://github.com/ankush22x/GSTN-Hackathon/blob/main/Preview.png)
